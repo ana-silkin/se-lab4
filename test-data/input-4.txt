@@ -1,0 +1,3 @@
+# test for behaviour when one store is empty
+GT4500,0,0,10,0
+TORPEDO,SINGLE
