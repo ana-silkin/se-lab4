@@ -1,0 +1,3 @@
+# chech the firing capability of the both stores
+GT4500,10,0,10,0
+TORPEDO,ALL
